@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "\"Clone of youtube with new interface\"",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "dev": ""
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "Javascript",
@@ -12,5 +13,8 @@
     "youtube"
   ],
   "author": "Deepak kumar",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
 }
