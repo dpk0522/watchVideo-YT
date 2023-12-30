@@ -1,0 +1,16 @@
+{
+  "name": "newyt",
+  "version": "1.0.0",
+  "description": "\"Clone of youtube with new interface\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": ""
+  },
+  "keywords": [
+    "Javascript",
+    "Node",
+    "youtube"
+  ],
+  "author": "Deepak kumar",
+  "license": "ISC"
+}
